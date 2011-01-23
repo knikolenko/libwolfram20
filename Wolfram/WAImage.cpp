@@ -45,7 +45,7 @@ WAImage::getAlt()
  * @return Title of image
  */
 string
-WAImage::getTilte()
+WAImage::getTitle()
 {
     return string(title);
 }

@@ -23,7 +23,7 @@ public:
 
     string  getSrc();
     string  getAlt();
-    string  getTilte();
+    string  getTitle();
     size_t  getWidth();
     size_t  getHeight();
 
